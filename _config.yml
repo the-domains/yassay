@@ -1,7 +1,7 @@
 name: yassay
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.7163844911847264
+typography_spectrum: 0.52052
 title: YassaY
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.3125
-  lightness: 0.6999925025738776
+  lightness: 1
   saturation: 0.7215496704448014
-  rhythmicContrast: 0.6012882764916867
+  rhythmicContrast: 1
 purpose: []
