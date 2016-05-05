@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[yassay]]></title>
+        <description><![CDATA[yassay]]></description>
+        <link>https://thegrid.ai/yassay/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 03:50:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yassay/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[YassaY]]></title>
+            <description><![CDATA[<article><h1>YassaY</h1><p>A tour of USA...</p></article>]]></description>
+            <link>https://thegrid.ai/yassay/yassay/index.html</link>
+            <guid isPermaLink="false">337ac0e6-8da5-42d0-a879-7fd6bf8f4d24</guid>
+            <pubDate>Thu, 05 May 2016 03:50:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
