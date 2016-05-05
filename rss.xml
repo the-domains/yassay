@@ -4,7 +4,7 @@
         <description><![CDATA[yassay]]></description>
         <link>https://thegrid.ai/yassay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 03:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 03:51:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yassay/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[YassaY]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/yassay/yassay/index.html</link>
             <guid isPermaLink="false">337ac0e6-8da5-42d0-a879-7fd6bf8f4d24</guid>
             <pubDate>Thu, 05 May 2016 03:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test</p>]]></description>
+            <link>https://thegrid.ai/yassay/test/index.html</link>
+            <guid isPermaLink="false">16e05a17-36dc-4f72-9f47-3c7f8d7c30d4</guid>
+            <pubDate>Thu, 05 May 2016 03:51:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
